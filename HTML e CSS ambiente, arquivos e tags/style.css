@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #212121;
+    color: white;
+}
+
+.titulo-destaque {
+    color: dodgerblue;
+}
