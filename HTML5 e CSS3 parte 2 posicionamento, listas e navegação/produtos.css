@@ -1,0 +1,29 @@
+header {
+    background-color: #BBBBBB;
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22;
+    text-decoration: None;
+}
+
+.produto-header-div {
+    position: relative;
+    width: 75%;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+nav {
+    position: absolute;
+    top: 125px;
+    right: 0;
+}
+
